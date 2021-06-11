@@ -2,7 +2,7 @@ package Project2021;
 
 import java.util.Scanner;
 
-public class MonthlyExpenses {
+public class MonthlyExpenses extends UserLogin{
     Scanner scanner = new Scanner(System.in);
     double livingExpenses;
     double mobility;

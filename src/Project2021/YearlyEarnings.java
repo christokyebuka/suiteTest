@@ -1,6 +1,6 @@
 package Project2021;
 
-public class YearlyEarnings {
+public class YearlyEarnings extends UserLogin {
     double jan_income;
     double feb_income;
     double march_income;
